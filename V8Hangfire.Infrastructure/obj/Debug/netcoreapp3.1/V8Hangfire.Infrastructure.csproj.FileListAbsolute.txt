@@ -1,0 +1,15 @@
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\bin\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.deps.json
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\bin\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.runtimeconfig.json
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\bin\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.runtimeconfig.dev.json
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\bin\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.dll
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\bin\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.pdb
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\bin\Debug\netcoreapp3.1\V8Hangfire.Domain.dll
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\bin\Debug\netcoreapp3.1\V8Hangfire.Domain.pdb
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\obj\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.AssemblyInfoInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\obj\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.AssemblyInfo.cs
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\obj\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\obj\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.csproj.CopyComplete
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\obj\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.dll
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\obj\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.pdb
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\obj\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.genruntimeconfig.cache
+E:\Development\Source\Source Out\V8.Library\V8Hangfire.Infrastructure\obj\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.csprojAssemblyReference.cache

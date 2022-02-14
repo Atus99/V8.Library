@@ -1,0 +1,15 @@
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\bin\Debug\netcoreapp3.1\V8Notify.Domain.dll
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\obj\Debug\netcoreapp3.1\V8Notify.Infrastructure.AssemblyInfoInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\obj\Debug\netcoreapp3.1\V8Notify.Infrastructure.AssemblyInfo.cs
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\obj\Debug\netcoreapp3.1\V8Notify.Infrastructure.csprojAssemblyReference.cache
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\bin\Debug\netcoreapp3.1\V8Notify.Infrastructure.deps.json
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\bin\Debug\netcoreapp3.1\V8Notify.Infrastructure.runtimeconfig.json
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\bin\Debug\netcoreapp3.1\V8Notify.Infrastructure.runtimeconfig.dev.json
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\bin\Debug\netcoreapp3.1\V8Notify.Infrastructure.dll
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\bin\Debug\netcoreapp3.1\V8Notify.Infrastructure.pdb
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\bin\Debug\netcoreapp3.1\V8Notify.Domain.pdb
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\obj\Debug\netcoreapp3.1\V8Notify.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\obj\Debug\netcoreapp3.1\V8Notify.Infrastructure.csproj.CopyComplete
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\obj\Debug\netcoreapp3.1\V8Notify.Infrastructure.dll
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\obj\Debug\netcoreapp3.1\V8Notify.Infrastructure.pdb
+E:\Development\Source\Source Out\V8.Library\V8Notify.Infrastructure\obj\Debug\netcoreapp3.1\V8Notify.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\bin\Debug\netcoreapp3.1\V8Notify.Domain.deps.json
+E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\bin\Debug\netcoreapp3.1\V8Notify.Domain.dll
+E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\bin\Debug\netcoreapp3.1\V8Notify.Domain.pdb
+E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.csprojAssemblyReference.cache
+E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.AssemblyInfoInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.AssemblyInfo.cs
+E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.csproj.CoreCompileInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.dll
+E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.pdb

@@ -1,0 +1,16 @@
+E:\Development\Source\Source Out\V8.Library\V8.Application\bin\Debug\netcoreapp3.1\V8.Application.deps.json
+E:\Development\Source\Source Out\V8.Library\V8.Application\bin\Debug\netcoreapp3.1\V8.Application.dll
+E:\Development\Source\Source Out\V8.Library\V8.Application\bin\Debug\netcoreapp3.1\V8.Application.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Application\bin\Debug\netcoreapp3.1\V8.Domain.dll
+E:\Development\Source\Source Out\V8.Library\V8.Application\bin\Debug\netcoreapp3.1\V8.Infrastructure.dll
+E:\Development\Source\Source Out\V8.Library\V8.Application\bin\Debug\netcoreapp3.1\V8.Infrastructure.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Application\bin\Debug\netcoreapp3.1\V8.Domain.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Application\obj\Debug\netcoreapp3.1\V8.Application.AssemblyInfoInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8.Application\obj\Debug\netcoreapp3.1\V8.Application.AssemblyInfo.cs
+E:\Development\Source\Source Out\V8.Library\V8.Application\obj\Debug\netcoreapp3.1\V8.Application.csproj.CoreCompileInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8.Application\obj\Debug\netcoreapp3.1\V8.Application.csproj.CopyComplete
+E:\Development\Source\Source Out\V8.Library\V8.Application\obj\Debug\netcoreapp3.1\V8.Application.dll
+E:\Development\Source\Source Out\V8.Library\V8.Application\obj\Debug\netcoreapp3.1\V8.Application.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Application\bin\Debug\netcoreapp3.1\V8.Utility.dll
+E:\Development\Source\Source Out\V8.Library\V8.Application\bin\Debug\netcoreapp3.1\V8.Utility.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Application\obj\Debug\netcoreapp3.1\V8.Application.csprojAssemblyReference.cache

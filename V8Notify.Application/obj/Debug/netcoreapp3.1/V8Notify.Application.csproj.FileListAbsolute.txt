@@ -1,0 +1,6 @@
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\bin\Debug\netcoreapp3.1\V8Notify.Domain.dll
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\bin\Debug\netcoreapp3.1\V8Notify.Infrastructure.dll
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.csprojAssemblyReference.cache
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.AssemblyInfoInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.AssemblyInfo.cs
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.csproj.CoreCompileInputs.cache
