@@ -10,12 +10,12 @@ using V8Notify.Domain.Models.Notify;
 
 namespace V8Notify.Application.Services
 {
-    public interface SendNotificationService : BaseMasterService, ISendNotificationServices
+    public class SendNotificationService : BaseMasterService, ISendNotificationServices
     {
         private readonly string _apiNotify;
         public SendNotificationService(
-            IV8NotifyRepositoryWrapper dasNotifyRepository,
-            IConfiguration configuration) : base(dasNotifyRepository)
+            IV8NotifyRepositoryWrapper v8NotifyRepository,
+            IConfiguration configuration) : base(v8NotifyRepository)
         {
             _apiNotify = configuration["NotifyDomain"];
 
@@ -68,8 +68,8 @@ namespace V8Notify.Application.Services
                     });
                 }
 
-                await _dasNotifyRepo.Notification.InsertAsync(listNoti);
-                await _dasNotifyRepo.SaveAync();
+                await _v8NotifyRepo.Notification.InsertAsync(listNoti);
+                await _v8NotifyRepo.SaveAync();
                 return new ServiceResultSuccess();
             }
             catch (Exception ex)

@@ -7,3 +7,12 @@ E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp
 E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.csproj.CoreCompileInputs.cache
 E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.dll
 E:\Development\Source\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.pdb
+F:\Source Out\V8.Library\V8Notify.Domain\bin\Debug\netcoreapp3.1\V8Notify.Domain.deps.json
+F:\Source Out\V8.Library\V8Notify.Domain\bin\Debug\netcoreapp3.1\V8Notify.Domain.dll
+F:\Source Out\V8.Library\V8Notify.Domain\bin\Debug\netcoreapp3.1\V8Notify.Domain.pdb
+F:\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.csproj.AssemblyReference.cache
+F:\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.AssemblyInfoInputs.cache
+F:\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.AssemblyInfo.cs
+F:\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.csproj.CoreCompileInputs.cache
+F:\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.dll
+F:\Source Out\V8.Library\V8Notify.Domain\obj\Debug\netcoreapp3.1\V8Notify.Domain.pdb

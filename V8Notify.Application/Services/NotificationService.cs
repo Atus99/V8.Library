@@ -12,7 +12,7 @@ namespace V8Notify.Application.Services
 {
     public class NotificationService : BaseMasterService, INotificationService
     {
-        public NotificationService(IV8NotifyRepositoryWrapper dasNotifyRepository) : base(dasNotifyRepository)
+        public NotificationService(IV8NotifyRepositoryWrapper v8NotifyRepository) : base(v8NotifyRepository)
         {
 
         }

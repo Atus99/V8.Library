@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj": {}
+    "F:\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj": {
+    "F:\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj",
+        "projectUniqueName": "F:\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj",
         "projectName": "V8.Domain",
-        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\obj\\",
+        "projectPath": "F:\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj",
+        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
+        "outputPath": "F:\\Source Out\\V8.Library\\V8.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
