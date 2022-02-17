@@ -6922,19 +6922,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tu.phamvan\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Source Out\\V8.Library\\V8.Notify\\V8.Notify.csproj",
+      "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Notify\\V8.Notify.csproj",
       "projectName": "V8.Notify",
-      "projectPath": "F:\\Source Out\\V8.Library\\V8.Notify\\V8.Notify.csproj",
-      "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-      "outputPath": "F:\\Source Out\\V8.Library\\V8.Notify\\obj\\",
+      "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Notify\\V8.Notify.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Notify\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6948,8 +6948,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj": {
-              "projectPath": "F:\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj"
+            "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj": {
+              "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj"
             }
           }
         }
@@ -6973,12 +6973,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.18, 3.1.18]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6987,7 +6981,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
       }
     }
   }

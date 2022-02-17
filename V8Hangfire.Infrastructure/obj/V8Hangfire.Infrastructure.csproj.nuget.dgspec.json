@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj": {}
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj": {}
   },
   "projects": {
-    "F:\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj": {
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj",
+        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj",
         "projectName": "V8Hangfire.Domain",
-        "projectPath": "F:\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj",
-        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-        "outputPath": "F:\\Source Out\\V8.Library\\V8Hangfire.Domain\\obj\\",
+        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj": {
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj",
+        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj",
         "projectName": "V8Hangfire.Infrastructure",
-        "projectPath": "F:\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-        "outputPath": "F:\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\obj\\",
+        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj": {
-                "projectPath": "F:\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj"
+              "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj": {
+                "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj"
               }
             }
           }
@@ -146,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     }

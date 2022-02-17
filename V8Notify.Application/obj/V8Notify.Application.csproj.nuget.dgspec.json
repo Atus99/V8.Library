@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj": {}
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj": {}
   },
   "projects": {
-    "F:\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj": {
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj",
+        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj",
         "projectName": "V8Notify.Application",
-        "projectPath": "F:\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj",
-        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-        "outputPath": "F:\\Source Out\\V8.Library\\V8Notify.Application\\obj\\",
+        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj": {
-                "projectPath": "F:\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj"
+              "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj": {
+                "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj"
               }
             }
           }
@@ -72,21 +72,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj": {
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj",
+        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj",
         "projectName": "V8Notify.Domain",
-        "projectPath": "F:\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj",
-        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-        "outputPath": "F:\\Source Out\\V8.Library\\V8Notify.Domain\\obj\\",
+        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,21 +126,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj": {
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj",
+        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj",
         "projectName": "V8Notify.Infrastructure",
-        "projectPath": "F:\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-        "outputPath": "F:\\Source Out\\V8.Library\\V8Notify.Infrastructure\\obj\\",
+        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,8 +154,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj": {
-                "projectPath": "F:\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj"
+              "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj": {
+                "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Domain\\V8Notify.Domain.csproj"
               }
             }
           }
@@ -208,7 +208,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     }
