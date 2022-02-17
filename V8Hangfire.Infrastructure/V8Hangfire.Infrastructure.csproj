@@ -20,4 +20,8 @@
     <ProjectReference Include="..\V8Hangfire.Domain\V8Hangfire.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

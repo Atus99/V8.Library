@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using V8Hangfire.Infrastructure.Contexts;
 
-namespace V8Hangfire.Infrastructure.Migrations
+namespace V8Hangfire.Infrastructure.migrations.v8hangfire
 {
     [DbContext(typeof(V8HangfireContext))]
     partial class V8HangfireContextModelSnapshot : ModelSnapshot

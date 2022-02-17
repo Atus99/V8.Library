@@ -1,9 +1,9 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace V8.Infrastructure.Migrations
+namespace V8.Infrastructure.migrations.v8
 {
-    public partial class FirstMigration : Migration
+    public partial class firstcontext : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
