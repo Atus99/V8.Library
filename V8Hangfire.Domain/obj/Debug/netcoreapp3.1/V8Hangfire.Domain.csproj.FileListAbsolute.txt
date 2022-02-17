@@ -7,3 +7,12 @@ E:\Development\Source\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcorea
 E:\Development\Source\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcoreapp3.1\V8Hangfire.Domain.dll
 E:\Development\Source\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcoreapp3.1\V8Hangfire.Domain.pdb
 E:\Development\Source\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcoreapp3.1\V8Hangfire.Domain.csprojAssemblyReference.cache
+F:\Source Out\V8.Library\V8Hangfire.Domain\bin\Debug\netcoreapp3.1\V8Hangfire.Domain.deps.json
+F:\Source Out\V8.Library\V8Hangfire.Domain\bin\Debug\netcoreapp3.1\V8Hangfire.Domain.dll
+F:\Source Out\V8.Library\V8Hangfire.Domain\bin\Debug\netcoreapp3.1\V8Hangfire.Domain.pdb
+F:\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcoreapp3.1\V8Hangfire.Domain.csproj.AssemblyReference.cache
+F:\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcoreapp3.1\V8Hangfire.Domain.AssemblyInfoInputs.cache
+F:\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcoreapp3.1\V8Hangfire.Domain.AssemblyInfo.cs
+F:\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcoreapp3.1\V8Hangfire.Domain.csproj.CoreCompileInputs.cache
+F:\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcoreapp3.1\V8Hangfire.Domain.dll
+F:\Source Out\V8.Library\V8Hangfire.Domain\obj\Debug\netcoreapp3.1\V8Hangfire.Domain.pdb

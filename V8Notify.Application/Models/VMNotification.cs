@@ -58,6 +58,6 @@ namespace V8Notify.Application.Models
     public class HeaderNotification
     {
         public int TotalUnreadNotification { get; set; }
-        public PaginatedList<VMNotification> ListNotification { get; set; }
+        //public PaginatedList<VMNotification> ListNotification { get; set; }
     }
 }

@@ -5915,19 +5915,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\tu.phamvan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj",
+      "projectUniqueName": "F:\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj",
       "projectName": "V8Hangfire.Infrastructure",
-      "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\obj\\",
+      "projectPath": "F:\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\V8Hangfire.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
+      "outputPath": "F:\\Source Out\\V8.Library\\V8Hangfire.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5941,8 +5941,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj": {
-              "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj"
+            "F:\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj": {
+              "projectPath": "F:\\Source Out\\V8.Library\\V8Hangfire.Domain\\V8Hangfire.Domain.csproj"
             }
           }
         }
@@ -5999,7 +5999,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
