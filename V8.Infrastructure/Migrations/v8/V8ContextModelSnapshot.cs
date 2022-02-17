@@ -3,17 +3,15 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using V8.Infrastructure.Contexts;
 
-namespace V8.Infrastructure.Migrations
+namespace V8.Infrastructure.migrations.v8
 {
     [DbContext(typeof(V8Context))]
-    [Migration("20211201161330_FirstMigration")]
-    partial class FirstMigration
+    partial class V8ContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

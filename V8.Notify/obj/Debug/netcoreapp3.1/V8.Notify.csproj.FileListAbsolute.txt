@@ -1,0 +1,5 @@
+E:\Development\Source\Source Out\V8.Library\V8.Notify\obj\Debug\netcoreapp3.1\V8.Notify.csprojAssemblyReference.cache
+E:\Development\Source\Source Out\V8.Library\V8.Notify\obj\Debug\netcoreapp3.1\V8.Notify.AssemblyInfoInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8.Notify\obj\Debug\netcoreapp3.1\V8.Notify.AssemblyInfo.cs
+E:\Development\Source\Source Out\V8.Library\V8.Notify\obj\Debug\netcoreapp3.1\V8.Notify.csproj.CoreCompileInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8.Notify\obj\Debug\netcoreapp3.1\V8.Notify.MvcApplicationPartsAssemblyInfo.cache

@@ -20,4 +20,8 @@
     <ProjectReference Include="..\V8.Utility\V8.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

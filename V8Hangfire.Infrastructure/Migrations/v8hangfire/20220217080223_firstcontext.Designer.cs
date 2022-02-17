@@ -7,11 +7,11 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using V8Hangfire.Infrastructure.Contexts;
 
-namespace V8Hangfire.Infrastructure.Migrations
+namespace V8Hangfire.Infrastructure.migrations.v8hangfire
 {
     [DbContext(typeof(V8HangfireContext))]
-    [Migration("20211204131640_firstHangfireContext")]
-    partial class firstHangfireContext
+    [Migration("20220217080223_firstcontext")]
+    partial class firstcontext
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

@@ -1,9 +1,9 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace V8Hangfire.Infrastructure.Migrations
+namespace V8Hangfire.Infrastructure.migrations.v8hangfire
 {
-    public partial class firstHangfireContext : Migration
+    public partial class firstcontext : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
