@@ -1,12 +1,3 @@
-E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.AssemblyInfoInputs.cache
-E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.AssemblyInfo.cs
-E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.csproj.CoreCompileInputs.cache
-E:\Development\Source\Source Out\V8.Library\V8.Utility\bin\Debug\netcoreapp3.1\V8.Utility.deps.json
-E:\Development\Source\Source Out\V8.Library\V8.Utility\bin\Debug\netcoreapp3.1\V8.Utility.dll
-E:\Development\Source\Source Out\V8.Library\V8.Utility\bin\Debug\netcoreapp3.1\V8.Utility.pdb
-E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.dll
-E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.pdb
-E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.csprojAssemblyReference.cache
 F:\Source Out\V8.Library\V8.Utility\bin\Debug\netcoreapp3.1\V8.Utility.deps.json
 F:\Source Out\V8.Library\V8.Utility\bin\Debug\netcoreapp3.1\V8.Utility.dll
 F:\Source Out\V8.Library\V8.Utility\bin\Debug\netcoreapp3.1\V8.Utility.pdb
@@ -16,3 +7,11 @@ F:\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.AssemblyI
 F:\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.csproj.CoreCompileInputs.cache
 F:\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.dll
 F:\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Utility\bin\Debug\netcoreapp3.1\V8.Utility.deps.json
+E:\Development\Source\Source Out\V8.Library\V8.Utility\bin\Debug\netcoreapp3.1\V8.Utility.dll
+E:\Development\Source\Source Out\V8.Library\V8.Utility\bin\Debug\netcoreapp3.1\V8.Utility.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.AssemblyInfoInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.AssemblyInfo.cs
+E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.csproj.CoreCompileInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.dll
+E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.pdb

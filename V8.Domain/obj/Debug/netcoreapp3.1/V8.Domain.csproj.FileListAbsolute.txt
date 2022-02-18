@@ -1,12 +1,3 @@
-E:\Development\Source\Source Out\V8.Library\V8.Domain\bin\Debug\netcoreapp3.1\V8.Domain.deps.json
-E:\Development\Source\Source Out\V8.Library\V8.Domain\bin\Debug\netcoreapp3.1\V8.Domain.dll
-E:\Development\Source\Source Out\V8.Library\V8.Domain\bin\Debug\netcoreapp3.1\V8.Domain.pdb
-E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.AssemblyInfoInputs.cache
-E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.AssemblyInfo.cs
-E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.csproj.CoreCompileInputs.cache
-E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.dll
-E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.pdb
-E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.csprojAssemblyReference.cache
 F:\Source Out\V8.Library\V8.Domain\bin\Debug\netcoreapp3.1\V8.Domain.deps.json
 F:\Source Out\V8.Library\V8.Domain\bin\Debug\netcoreapp3.1\V8.Domain.dll
 F:\Source Out\V8.Library\V8.Domain\bin\Debug\netcoreapp3.1\V8.Domain.pdb
@@ -15,3 +6,11 @@ F:\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.AssemblyInf
 F:\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.csproj.CoreCompileInputs.cache
 F:\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.dll
 F:\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Domain\bin\Debug\netcoreapp3.1\V8.Domain.deps.json
+E:\Development\Source\Source Out\V8.Library\V8.Domain\bin\Debug\netcoreapp3.1\V8.Domain.dll
+E:\Development\Source\Source Out\V8.Library\V8.Domain\bin\Debug\netcoreapp3.1\V8.Domain.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.AssemblyInfoInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.AssemblyInfo.cs
+E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.csproj.CoreCompileInputs.cache
+E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.dll
+E:\Development\Source\Source Out\V8.Library\V8.Domain\obj\Debug\netcoreapp3.1\V8.Domain.pdb

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace V8.Application.Models.ViewModels
 {
-    internal class VMUser
+    public class VMUser
     {
     }
 }
