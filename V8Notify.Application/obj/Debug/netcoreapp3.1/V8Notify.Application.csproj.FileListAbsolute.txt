@@ -18,3 +18,11 @@ F:\Source Out\V8.Library\V8Notify.Application\bin\Debug\netcoreapp3.1\V8Notify.D
 F:\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.csproj.CopyComplete
 F:\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.dll
 F:\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.pdb
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\bin\Debug\netcoreapp3.1\V8Notify.Application.deps.json
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\bin\Debug\netcoreapp3.1\V8Notify.Application.dll
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\bin\Debug\netcoreapp3.1\V8Notify.Application.pdb
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\bin\Debug\netcoreapp3.1\V8Notify.Infrastructure.pdb
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\bin\Debug\netcoreapp3.1\V8Notify.Domain.pdb
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.csproj.CopyComplete
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.dll
+E:\Development\Source\Source Out\V8.Library\V8Notify.Application\obj\Debug\netcoreapp3.1\V8Notify.Application.pdb
