@@ -26,3 +26,17 @@ F:\Source Out\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfi
 F:\Source Out\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.csproj.CopyComplete
 F:\Source Out\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.dll
 F:\Source Out\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.pdb
+F:\Source\V8.Library\V8Hangfire.Application\bin\Debug\netcoreapp3.1\V8Hangfire.Application.deps.json
+F:\Source\V8.Library\V8Hangfire.Application\bin\Debug\netcoreapp3.1\V8Hangfire.Application.dll
+F:\Source\V8.Library\V8Hangfire.Application\bin\Debug\netcoreapp3.1\V8Hangfire.Application.pdb
+F:\Source\V8.Library\V8Hangfire.Application\bin\Debug\netcoreapp3.1\V8Hangfire.Domain.dll
+F:\Source\V8.Library\V8Hangfire.Application\bin\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.dll
+F:\Source\V8.Library\V8Hangfire.Application\bin\Debug\netcoreapp3.1\V8Hangfire.Infrastructure.pdb
+F:\Source\V8.Library\V8Hangfire.Application\bin\Debug\netcoreapp3.1\V8Hangfire.Domain.pdb
+F:\Source\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.csproj.AssemblyReference.cache
+F:\Source\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.AssemblyInfoInputs.cache
+F:\Source\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.AssemblyInfo.cs
+F:\Source\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.csproj.CoreCompileInputs.cache
+F:\Source\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.csproj.CopyComplete
+F:\Source\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.dll
+F:\Source\V8.Library\V8Hangfire.Application\obj\Debug\netcoreapp3.1\V8Hangfire.Application.pdb

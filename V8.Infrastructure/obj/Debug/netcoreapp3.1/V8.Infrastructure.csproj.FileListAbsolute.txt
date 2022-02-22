@@ -32,3 +32,20 @@ E:\Development\Source\Source Out\V8.Library\V8.Infrastructure\obj\Debug\netcorea
 E:\Development\Source\Source Out\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.dll
 E:\Development\Source\Source Out\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.pdb
 E:\Development\Source\Source Out\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.genruntimeconfig.cache
+F:\Source\V8.Library\V8.Infrastructure\bin\Debug\netcoreapp3.1\V8.Infrastructure.deps.json
+F:\Source\V8.Library\V8.Infrastructure\bin\Debug\netcoreapp3.1\V8.Infrastructure.runtimeconfig.json
+F:\Source\V8.Library\V8.Infrastructure\bin\Debug\netcoreapp3.1\V8.Infrastructure.runtimeconfig.dev.json
+F:\Source\V8.Library\V8.Infrastructure\bin\Debug\netcoreapp3.1\V8.Infrastructure.dll
+F:\Source\V8.Library\V8.Infrastructure\bin\Debug\netcoreapp3.1\V8.Infrastructure.pdb
+F:\Source\V8.Library\V8.Infrastructure\bin\Debug\netcoreapp3.1\V8.Domain.dll
+F:\Source\V8.Library\V8.Infrastructure\bin\Debug\netcoreapp3.1\V8.Utility.dll
+F:\Source\V8.Library\V8.Infrastructure\bin\Debug\netcoreapp3.1\V8.Domain.pdb
+F:\Source\V8.Library\V8.Infrastructure\bin\Debug\netcoreapp3.1\V8.Utility.pdb
+F:\Source\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.csproj.AssemblyReference.cache
+F:\Source\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.AssemblyInfoInputs.cache
+F:\Source\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.AssemblyInfo.cs
+F:\Source\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Source\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.csproj.CopyComplete
+F:\Source\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.dll
+F:\Source\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.pdb
+F:\Source\V8.Library\V8.Infrastructure\obj\Debug\netcoreapp3.1\V8.Infrastructure.genruntimeconfig.cache

@@ -6423,19 +6423,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\tu.phamvan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.HangFire\\V8.HangFire.csproj",
+      "projectUniqueName": "F:\\Source\\V8.Library\\V8.HangFire\\V8.HangFire.csproj",
       "projectName": "V8.HangFire",
-      "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.HangFire\\V8.HangFire.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.HangFire\\obj\\",
+      "projectPath": "F:\\Source\\V8.Library\\V8.HangFire\\V8.HangFire.csproj",
+      "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
+      "outputPath": "F:\\Source\\V8.Library\\V8.HangFire\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6449,8 +6449,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Application\\V8Hangfire.Application.csproj": {
-              "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Hangfire.Application\\V8Hangfire.Application.csproj"
+            "F:\\Source\\V8.Library\\V8Hangfire.Application\\V8Hangfire.Application.csproj": {
+              "projectPath": "F:\\Source\\V8.Library\\V8Hangfire.Application\\V8Hangfire.Application.csproj"
             }
           }
         }
@@ -6486,6 +6486,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.18, 3.1.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6494,7 +6500,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
