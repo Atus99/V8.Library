@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Source\\V8.Library\\V8.Application\\V8.Application.csproj": {}
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Application\\V8.Application.csproj": {}
   },
   "projects": {
-    "F:\\Source\\V8.Library\\V8.Application\\V8.Application.csproj": {
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Application\\V8.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source\\V8.Library\\V8.Application\\V8.Application.csproj",
+        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Application\\V8.Application.csproj",
         "projectName": "V8.Application",
-        "projectPath": "F:\\Source\\V8.Library\\V8.Application\\V8.Application.csproj",
-        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-        "outputPath": "F:\\Source\\V8.Library\\V8.Application\\obj\\",
+        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Application\\V8.Application.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\Source\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj": {
-                "projectPath": "F:\\Source\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj"
+              "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj": {
+                "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj"
               }
             }
           }
@@ -96,21 +96,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Source\\V8.Library\\V8.Domain\\V8.Domain.csproj": {
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source\\V8.Library\\V8.Domain\\V8.Domain.csproj",
+        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj",
         "projectName": "V8.Domain",
-        "projectPath": "F:\\Source\\V8.Library\\V8.Domain\\V8.Domain.csproj",
-        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-        "outputPath": "F:\\Source\\V8.Library\\V8.Domain\\obj\\",
+        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -156,21 +156,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Source\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj": {
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj",
+        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj",
         "projectName": "V8.Infrastructure",
-        "projectPath": "F:\\Source\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-        "outputPath": "F:\\Source\\V8.Library\\V8.Infrastructure\\obj\\",
+        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -184,11 +184,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\Source\\V8.Library\\V8.Domain\\V8.Domain.csproj": {
-                "projectPath": "F:\\Source\\V8.Library\\V8.Domain\\V8.Domain.csproj"
+              "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj": {
+                "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj"
               },
-              "F:\\Source\\V8.Library\\V8.Utility\\V8.Utility.csproj": {
-                "projectPath": "F:\\Source\\V8.Library\\V8.Utility\\V8.Utility.csproj"
+              "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Utility\\V8.Utility.csproj": {
+                "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Utility\\V8.Utility.csproj"
               }
             }
           }
@@ -241,21 +241,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Source\\V8.Library\\V8.Utility\\V8.Utility.csproj": {
+    "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Utility\\V8.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source\\V8.Library\\V8.Utility\\V8.Utility.csproj",
+        "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Utility\\V8.Utility.csproj",
         "projectName": "V8.Utility",
-        "projectPath": "F:\\Source\\V8.Library\\V8.Utility\\V8.Utility.csproj",
-        "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-        "outputPath": "F:\\Source\\V8.Library\\V8.Utility\\obj\\",
+        "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Utility\\V8.Utility.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -321,7 +321,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
         }
       }
     }

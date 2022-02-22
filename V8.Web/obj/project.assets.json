@@ -10383,19 +10383,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tu.phamvan\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Source\\V8.Library\\V8.Web\\V8.Web.csproj",
+      "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Web\\V8.Web.csproj",
       "projectName": "V8.Web",
-      "projectPath": "F:\\Source\\V8.Library\\V8.Web\\V8.Web.csproj",
-      "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
-      "outputPath": "F:\\Source\\V8.Library\\V8.Web\\obj\\",
+      "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Web\\V8.Web.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10409,8 +10409,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\Source\\V8.Library\\V8.Application\\V8.Application.csproj": {
-              "projectPath": "F:\\Source\\V8.Library\\V8.Application\\V8.Application.csproj"
+            "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Application\\V8.Application.csproj": {
+              "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Application\\V8.Application.csproj"
             }
           }
         }
@@ -10446,12 +10446,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.18, 3.1.18]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -10460,7 +10454,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
       }
     }
   }

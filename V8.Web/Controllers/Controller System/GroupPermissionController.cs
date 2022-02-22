@@ -13,7 +13,7 @@ namespace V8.Web.Controllers.Controller_System
     [ApiExplorerSettings(IgnoreApi = true)]
     public class GroupPermissionController : BaseController
     {
-        // Quyền hệ thống
+        // Quyền truy cập hệ thống
         [HasPermission((int)EnumModule.Code.S9030, new int[] { (int)EnumPermission.Type.Read })]
         public IActionResult Index()
         {

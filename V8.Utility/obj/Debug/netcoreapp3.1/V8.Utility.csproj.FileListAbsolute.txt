@@ -24,3 +24,4 @@ F:\Source\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.AssemblyInfo.
 F:\Source\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.csproj.CoreCompileInputs.cache
 F:\Source\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.dll
 F:\Source\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.pdb
+E:\Development\Source\Source Out\V8.Library\V8.Utility\obj\Debug\netcoreapp3.1\V8.Utility.csprojAssemblyReference.cache
