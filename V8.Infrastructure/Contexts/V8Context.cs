@@ -39,6 +39,10 @@ namespace V8.Infrastructure.Contexts
 
         #region V8
         public virtual DbSet<User> User { get; set; }
+        public virtual DbSet<Module> Module { get; set; }
+        public virtual DbSet<GroupPermission> GroupPermission { get; set; }
+        public virtual DbSet<Permission> Permission { get; set; }
+        public virtual DbSet<PermissionGroupPer> PermissionGroupPer { get; set; }
         #endregion
     }
 }
