@@ -19,9 +19,10 @@ namespace V8.Web.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly IHomeServices _homeService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IHomeServices homeServices)
         {
             _logger = logger;
+            _homeService = homeServices;
         }
 
         public IActionResult Index()

@@ -9533,19 +9533,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\tu.phamvan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj",
+      "projectUniqueName": "F:\\Source\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj",
       "projectName": "V8.Infrastructure",
-      "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Infrastructure\\obj\\",
+      "projectPath": "F:\\Source\\V8.Library\\V8.Infrastructure\\V8.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
+      "outputPath": "F:\\Source\\V8.Library\\V8.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9559,11 +9559,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj": {
-              "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Domain\\V8.Domain.csproj"
+            "F:\\Source\\V8.Library\\V8.Domain\\V8.Domain.csproj": {
+              "projectPath": "F:\\Source\\V8.Library\\V8.Domain\\V8.Domain.csproj"
             },
-            "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Utility\\V8.Utility.csproj": {
-              "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8.Utility\\V8.Utility.csproj"
+            "F:\\Source\\V8.Library\\V8.Utility\\V8.Utility.csproj": {
+              "projectPath": "F:\\Source\\V8.Library\\V8.Utility\\V8.Utility.csproj"
             }
           }
         }
@@ -9616,7 +9616,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

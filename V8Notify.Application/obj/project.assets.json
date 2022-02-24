@@ -6904,19 +6904,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\tu.phamvan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj",
+      "projectUniqueName": "F:\\Source\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj",
       "projectName": "V8Notify.Application",
-      "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Application\\obj\\",
+      "projectPath": "F:\\Source\\V8.Library\\V8Notify.Application\\V8Notify.Application.csproj",
+      "packagesPath": "C:\\Users\\tu.phamvan\\.nuget\\packages\\",
+      "outputPath": "F:\\Source\\V8.Library\\V8Notify.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu.phamvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6930,8 +6930,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj": {
-              "projectPath": "E:\\Development\\Source\\Source Out\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj"
+            "F:\\Source\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj": {
+              "projectPath": "F:\\Source\\V8.Library\\V8Notify.Infrastructure\\V8Notify.Infrastructure.csproj"
             }
           }
         }
@@ -6974,7 +6974,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

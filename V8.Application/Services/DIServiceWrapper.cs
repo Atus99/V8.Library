@@ -13,6 +13,8 @@ namespace V8.Application.Services
             //services.AddScoped<IHttpClientService, HttpClientService>();
             //services.AddScoped<IIPAddressClientServices, IPAddressClientService>();
             //services.AddScoped<IUserService, UserService>();
+            //services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IHomeServices, HomeService>();
         }
     }
 }
